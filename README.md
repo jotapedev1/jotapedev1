@@ -52,7 +52,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/jotapedev1/jotapedev1/output/snake.svg" alt="Snake animation" />
-
-###
