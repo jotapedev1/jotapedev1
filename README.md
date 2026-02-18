@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is João Pedro, I'm 18 years old, and I hold a technical degree in Systems Development from ETEC.<br>I'm currently pursuing a degree in Multiplatform Software Development at FATEC.<br><br>I have strong English communication skills and a deep interest in backend development, particularly using Java with Spring Boot.</p>
+<p align="left">My name is João Pedro, I'm 19 years old, and I hold a technical degree in Systems Development from ETEC.<br>I'm currently pursuing a degree in Multiplatform Software Development at FATEC.<br><br>I have strong English communication skills and a deep interest in backend development, particularly using Java with Spring Boot.</p>
 
 ###
 
